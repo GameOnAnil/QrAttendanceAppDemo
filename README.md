@@ -1,5 +1,6 @@
 <img src = "GitHub_Banner.png"  />
 
+
 # QrAttendanceAppDemo
 This is our 3rd Year Project on a Simple QrAttendance System.
 
