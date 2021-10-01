@@ -1,4 +1,4 @@
-<img src = "GitHub_banner.jpg" width ="1000" />
+<img src = "GitHub_banner.jpg" height ="1000" />
 
 # QrAttendanceAppDemo
 This is our 3rd Year Project on a Simple QrAttendance System.
