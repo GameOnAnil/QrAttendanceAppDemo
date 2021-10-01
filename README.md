@@ -1,4 +1,4 @@
-<img src = "screenshots/tool.png" width ="200" />
+![](GitHub_banner.jpg)
 
 # QrAttendanceAppDemo
 This is our 3rd Year Project on a Simple QrAttendance System.
@@ -32,11 +32,11 @@ This is our 3rd Year Project on a Simple QrAttendance System.
      |-- login              (Has Login Activity)
      |-- student            (Has Student Activity)
      |-- teacher            (Has Teacher Activity and Fragment)
-      	|-- ChooseSemesterFragment    
-		|-- MainAttendanceFragment  
-		|-- FindAttendanceFragment    
-		|-- NewAttendanceFragment  
-		|-- GenerateQRFragment    
-		|-- StudentDetailsFragment  
+        |-- ChooseSemesterFragment    
+    |-- MainAttendanceFragment  
+    |-- FindAttendanceFragment    
+    |-- NewAttendanceFragment  
+    |-- GenerateQRFragment    
+    |-- StudentDetailsFragment  
 
 ```
