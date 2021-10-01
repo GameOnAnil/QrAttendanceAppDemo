@@ -1,5 +1,5 @@
 # QrAttendanceAppDemo
-This is our 3rd Year Project on a simple QrAttendance System.
+This is our 3rd Year Project on a Simple QrAttendance System.
 
 ***Download latest apk from below 👇***
 
