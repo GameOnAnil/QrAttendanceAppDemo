@@ -1,4 +1,4 @@
-![](GitHub_banner.jpg)
+<img src = "GitHub_banner.jpg" width ="1000" />
 
 # QrAttendanceAppDemo
 This is our 3rd Year Project on a Simple QrAttendance System.
