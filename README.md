@@ -1,4 +1,4 @@
-<img src = "GitHub_Banner.png"  />
+<img src = "GitHub_Banner.png" height="700"  />
 
 
 # QrAttendanceAppDemo
