@@ -1,20 +1,4 @@
-
-<style>
-  .container {
-    overflow: scroll !important;
-    white-space: nowrap;
-    max-width: 300px;
-    max-height: 300px;
-  }
-  img {
-    max-width: 1000%;
-  }
-</style>
-
-<div class="container">
- <img src = "GitHub_banner.jpg" height ="1000" />
-</div>
-
+<img src = "GitHub_banner.jpg" height ="1000" />
 
 # QrAttendanceAppDemo
 This is our 3rd Year Project on a Simple QrAttendance System.
