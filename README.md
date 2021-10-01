@@ -1,4 +1,4 @@
-![](GitHub_banner.png)
+![](GitHub_banner.jpg)
 
 # QrAttendanceAppDemo
 This is our 3rd Year Project on a Simple QrAttendance System.
