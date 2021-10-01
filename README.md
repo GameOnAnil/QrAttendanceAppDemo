@@ -5,7 +5,7 @@ This is our 3rd Year Project on a simple QrAttendance System.
 
 [![Instagram Clone App](https://img.shields.io/badge/%20%20Downlaod%20Latest%20-Apk-red)](https://drive.google.com/drive/folders/1T82wY2PCUVUkqoEKJq4tl3SQPsWyKrvf?usp=sharing)
 
-## Creater
+## Developed By
 - Anil Thapa
 - Jeevan Niraula
 - Ujjwol Khatri
