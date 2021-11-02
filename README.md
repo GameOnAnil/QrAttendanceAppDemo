@@ -31,13 +31,23 @@ This is our 3rd Year Project on a Simple QrAttendance System.
    |-- models              (has all the data class)
    |-- ui                  (All Activity and Fragment)
      |-- login              (Has Login Activity)
+        |-- LoginActivity
+        |-- ForgetPasswordActivity
+     |-- admin  
+        |-- MainAdminFragment
+        |-- AddTeacherFragment
+        |-- AddStudentFragment
+        |-- ManageUserFragment
+        |-- UserDetailFragment      
      |-- student            (Has Student Activity)
+        |-- StudentActivity
+        |-- EditStudentDetailActivity
      |-- teacher            (Has Teacher Activity and Fragment)
-        |-- ChooseSemesterFragment    
-    |-- MainAttendanceFragment  
-    |-- FindAttendanceFragment    
-    |-- NewAttendanceFragment  
-    |-- GenerateQRFragment    
-    |-- StudentDetailsFragment  
+        |-- ChooseSubjectFragment    
+        |-- MainAttendanceFragment  
+        |-- FindAttendanceFragment    
+        |-- NewAttendanceFragment  
+        |-- GenerateQRFragment    
+        |-- StudentDetailsFragment  
 
 ```
