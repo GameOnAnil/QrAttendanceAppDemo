@@ -1,4 +1,4 @@
-<img src = "new.png" />
+<img src = "banner.png" />
 
 
 # QrAttendanceAppDemo
